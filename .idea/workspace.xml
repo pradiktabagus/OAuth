@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e6a40a5-3f15-4876-bb80-65848bb7e3f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_API_28" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ecfnjS7JD6WuL2SvhxkpTLY2Yp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="D:/easymobile/EasyMobile2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-502014626">
+      <recent name="com.dulu.oauth" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Developer\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e6a40a5-3f15-4876-bb80-65848bb7e3f0" name="Default Changelist" comment="" />
+      <created>1594625971310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594625971310</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="95" key="#PSD" timestamp="1594632711378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="200" y="95" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1594632711378" />
+    <state x="413" y="109" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1594711195489">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="109" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1594711195489" />
+    <state x="263" y="118" key="AndroidCreateResourceDirectoryDialog" timestamp="1594626347476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="118" key="AndroidCreateResourceDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1594626347476" />
+    <state width="468" height="466" key="DebuggerActiveHint" timestamp="1594711462880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="468" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1594711462880" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1594689554747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594689554747" />
+    <state x="540" y="256" width="286" height="277" key="Github.ShareDialog" timestamp="1594712693124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="540" y="256" width="286" height="277" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1594712693124" />
+    <state width="1286" height="195" key="GridCell.Tab.0.bottom" timestamp="1594713126661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594713126661" />
+    <state width="1286" height="195" key="GridCell.Tab.0.center" timestamp="1594713126661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594713126661" />
+    <state width="1286" height="195" key="GridCell.Tab.0.left" timestamp="1594713126661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594713126661" />
+    <state width="1286" height="195" key="GridCell.Tab.0.right" timestamp="1594713126661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594713126661" />
+    <state width="1286" height="195" key="GridCell.Tab.1.bottom" timestamp="1594713126662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594713126662" />
+    <state width="1286" height="195" key="GridCell.Tab.1.center" timestamp="1594713126662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1594713126662" />
+    <state width="1286" height="195" key="GridCell.Tab.1.left" timestamp="1594713126661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1594713126661" />
+    <state width="1286" height="195" key="GridCell.Tab.1.right" timestamp="1594713126662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1594713126662" />
+    <state width="1286" height="195" key="GridCell.Tab.2.bottom" timestamp="1594713126662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594713126662" />
+    <state width="1286" height="195" key="GridCell.Tab.2.center" timestamp="1594713126662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1594713126662" />
+    <state width="1286" height="195" key="GridCell.Tab.2.left" timestamp="1594713126662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1594713126662" />
+    <state width="1286" height="195" key="GridCell.Tab.2.right" timestamp="1594713126662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1594713126662" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1594632610912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594632610912" />
+    <state x="377" y="96" width="611" height="536" key="find.popup" timestamp="1594700973628">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="377" y="96" width="611" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1594700973628" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dulu/oauth/ui/login/LoginViewModel.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dulu/oauth/api/NetworkUtil.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dulu/oauth/ui/login/LoginActivity.java</url>
+          <line>147</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dulu/oauth/ui/login/LoginActivity.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dulu/oauth/api/RetrofitInterface.java</url>
+          <line>16</line>
+          <properties class="com.dulu.oauth.api.RetrofitInterface" method="login" />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dulu/oauth/model/Signin.java</url>
+          <line>5</line>
+          <properties class="com.dulu.oauth.model.Signin" method="&lt;init&gt;" />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dulu/oauth/model/ResponseLogin.java</url>
+          <line>6</line>
+          <properties class="com.dulu.oauth.model.ResponseLogin" method="&lt;init&gt;" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
